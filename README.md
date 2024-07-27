@@ -1,5 +1,5 @@
 # 📚TO-DO-List
-<img src="https://github.com/meiraBre/TO-DO-List/blob/main/to%20do%20list.jfif" width="300" height="300">
+<img src="https://github.com/meiraBre/TO-DO-List/blob/main/capa%20read.me.jfif" width="500" height="500">
 
 ## 👀Visão Geral do Projeto
 
