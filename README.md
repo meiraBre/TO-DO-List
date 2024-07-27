@@ -1,9 +1,9 @@
 # 📚TO-DO-List
-<img src="" width="300" height="300">
+<img src="https://github.com/meiraBre/TO-DO-List/blob/main/capa%20read.me1.jfif"  width="400" height="400">
 
 ## 👀Visão Geral do Projeto
 
-[Visão Geral]()
+[Visão Geral](http://127.0.0.1:5500/index.html)
 - Tecnologias: HTML e CSS
 - **"O famoso To Do list"** esse foi um projeto realizado com o auxílio de um vídeo no youtube, do canal "Dev Club".
 
