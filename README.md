@@ -4,7 +4,7 @@
 ## 👀Visão Geral do Projeto
 
 [Visão Geral](http://127.0.0.1:5500/index.html)
-- Tecnologias: HTML e CSS
+- Tecnologias: HTML e CSS e Javascript
 - **"O famoso To Do list"** esse foi um projeto realizado com o auxílio de um vídeo no youtube, do canal "Dev Club".
 
 ## 🛠Ferramentas Utilizadas
